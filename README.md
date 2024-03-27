@@ -33,9 +33,17 @@
 
    - 총 리뷰 수: 228,764,070
    - 총 제품 수: 11,867,792
+
+   데이터 ERD
+<img src="https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F96c71c2a-a768-4fa6-884b-78a30c9938a7%2F80da92fc-c522-4ac2-8322-edc8fadcfdb7%2FUntitled.png?table=block&id=c2310eb6-d261-4534-b0c2-65701684ba67&spaceId=96c71c2a-a768-4fa6-884b-78a30c9938a7&width=2000&userId=e47c3ddb-cc73-41b0-bb8e-65c922f37918&cache=v2" width="600">
+
+카테고리별로 들어간 리뷰 데이터와 메타 데이터
+
 <img src="https://velog.velcdn.com/images/cheol2_y/post/6f49c54d-10fb-42c9-ab09-67f63d1ef601/image.png" width="900">
 
 <img src="https://velog.velcdn.com/images/cheol2_y/post/fb8f3e5d-50b3-4912-b4bf-d7b779fa758d/image.png" width="900">
+
+데이터 노드별 사용량
 
 <img src="https://velog.velcdn.com/images/cheol2_y/post/595460b2-92d7-47a3-b35a-98687f31d8e2/image.png" width="900">
 
