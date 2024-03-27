@@ -33,14 +33,11 @@
 
    - 총 리뷰 수: 228,764,070
    - 총 제품 수: 11,867,792
-![review data](https://velog.velcdn.com/images/cheol2_y/post/6f49c54d-10fb-42c9-ab09-67f63d1ef601/image.png)
+<img src="https://velog.velcdn.com/images/cheol2_y/post/6f49c54d-10fb-42c9-ab09-67f63d1ef601/image.png" width="900">
 
+<img src="https://velog.velcdn.com/images/cheol2_y/post/fb8f3e5d-50b3-4912-b4bf-d7b779fa758d/image.png" width="900">
 
-![meta data](https://velog.velcdn.com/images/cheol2_y/post/fb8f3e5d-50b3-4912-b4bf-d7b779fa758d/image.png)
-
-
-
-   ![Hadoop Datanodes](https://velog.velcdn.com/images/cheol2_y/post/595460b2-92d7-47a3-b35a-98687f31d8e2/image.png)
+<img src="https://velog.velcdn.com/images/cheol2_y/post/595460b2-92d7-47a3-b35a-98687f31d8e2/image.png" width="900">
 
 2. **데이터 병합과 처리**
 
@@ -61,8 +58,7 @@
        .config("spark.master", "yarn")
        .getOrCreate())
    ```
-
-   ![Spark Configuration](https://velog.velcdn.com/images/cheol2_y/post/3ef23294-d81b-4da6-a0e6-471e9fdd0093/image.png)
+<img src="https://velog.velcdn.com/images/cheol2_y/post/3ef23294-d81b-4da6-a0e6-471e9fdd0093/image.png" width="500">
 
 
 
@@ -76,7 +72,7 @@
 
    최종적으로 Hadoop에 저장된 데이터는 아래와 같은 구조를 갖추게 되었습니다.
 
-   ![Hadoop Directory Structure](https://velog.velcdn.com/images/cheol2_y/post/10a0a510-3218-4e93-abb7-fff3a4d22f28/image.png)
+<img src="https://velog.velcdn.com/images/cheol2_y/post/10a0a510-3218-4e93-abb7-fff3a4d22f28/image.png" width="800">
 
 
 
@@ -86,12 +82,12 @@
 
 - 별점 5점에 대한 Wordcloud
 
-   ![Wordcloud for 5-Star Reviews]![](https://velog.velcdn.com/images/cheol2_y/post/4b9c7ca0-bde3-40bc-b619-ad0ea9a43197/image.png)
+<img src="https://velog.velcdn.com/images/cheol2_y/post/4b9c7ca0-bde3-40bc-b619-ad0ea9a43197/image.png" width="800">
 
 
 - 별점 1점에 대한 Wordcloud
 
-   ![Wordcloud for 1-Star Reviews]![](https://velog.velcdn.com/images/cheol2_y/post/ca776587-9357-4983-875b-efe46ab1082e/image.png)
+<img src="https://velog.velcdn.com/images/cheol2_y/post/ca776587-9357-4983-875b-efe46ab1082e/image.png" width="800">
 
 ## 아쉬운 점 및 향후 계획
 
